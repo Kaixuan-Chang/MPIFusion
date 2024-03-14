@@ -1,1 +1,1 @@
-# MIFusion
+# MPIFusion
