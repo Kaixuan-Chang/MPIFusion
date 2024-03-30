@@ -1,5 +1,5 @@
 # MPIFusion
-Multi-modal image fusion network based on multi-level progressive injection
+Infrared and visible image fusion network based on multistage progressive injection
 
 The tutorial is comming soon
  
